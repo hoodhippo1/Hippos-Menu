@@ -99,10 +99,10 @@ Features include:
 - Missile Reload Settings
 - Land and Remove Helicopter
 
-### Additional Features
+### Additional Features (No Recoil / rapid fire / no spread / slow motion are missing right now, working on adding those back in)
 
 - Perk Selection and Management
-- No Recoil
+- No Recoil 
 - Rapid Fire
 - Fast Reload
 - No Spread
